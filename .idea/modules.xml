@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EjerciciosLogicaProgramacion/EjerciciosLogicaProgramacion.iml" filepath="$PROJECT_DIR$/EjerciciosLogicaProgramacion/EjerciciosLogicaProgramacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HolaMundo/HolaMundo.iml" filepath="$PROJECT_DIR$/HolaMundo/HolaMundo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion02/Seccion02.iml" filepath="$PROJECT_DIR$/Seccion02/Seccion02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion03/Seccion03.iml" filepath="$PROJECT_DIR$/Seccion03/Seccion03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion04/Seccion04.iml" filepath="$PROJECT_DIR$/Seccion04/Seccion04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion05/Seccion05.iml" filepath="$PROJECT_DIR$/Seccion05/Seccion05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion06/Seccion06.iml" filepath="$PROJECT_DIR$/Seccion06/Seccion06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion07/Seccion07.iml" filepath="$PROJECT_DIR$/Seccion07/Seccion07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion08/Seccion08.iml" filepath="$PROJECT_DIR$/Seccion08/Seccion08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion09/Seccion09.iml" filepath="$PROJECT_DIR$/Seccion09/Seccion09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion10/Seccion10.iml" filepath="$PROJECT_DIR$/Seccion10/Seccion10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion11/Seccion11.iml" filepath="$PROJECT_DIR$/Seccion11/Seccion11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion12/Seccion12.iml" filepath="$PROJECT_DIR$/Seccion12/Seccion12.iml" />
+    </modules>
+  </component>
+</project>
